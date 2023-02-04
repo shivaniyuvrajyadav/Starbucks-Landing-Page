@@ -42,6 +42,9 @@ header ul li a{
     margin-left: 40px;
     text-decoration: none; 
 }
+ul li a:hover {
+    color: #017143;
+}
 .content{
     position: relative;
     width: 100%;
